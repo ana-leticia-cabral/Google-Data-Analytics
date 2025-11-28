@@ -2,7 +2,9 @@
 
  ## Informações do curso
  Data de conclusão do curso: 28/10/2025
+
  Carga horária: 12 horas
+ 
  Habilidades adquiridas: 
  * Software de planilhas
  * Ética de dados
