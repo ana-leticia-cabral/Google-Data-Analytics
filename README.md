@@ -5,8 +5,8 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 
 
 ## 📚 Cursos da Certificação
-- [x] Conceitos básicos: dados, dados em todos os lugares
-- [x] Faça perguntas para tomar decisões baseadas em dados
+- [x] Conceitos básicos: dados, dados em todos os lugares. Conclusão: Outubro de 2025.
+- [x] Faça perguntas para tomar decisões baseadas em dados. Conclusão: Novembro de 2025.
 - [ ] Prepare dados para exploração
 - [ ] Processe dados de sujos para limpos
 - [ ] Analisar dados para responder as perguntas
