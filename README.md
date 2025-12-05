@@ -7,10 +7,10 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 ## 📚 Cursos da Certificação
 - [x] Conceitos básicos: dados, dados em todos os lugares
 - [x] Faça perguntas para tomar decisões baseadas em dados
-- [] Prepare dados para exploração
-- [] Processe dados de sujos para limpos
-- [] Analisar dados para responder as perguntas
-- [] Compartilhe dados por meio da arte de Visualização
-- [] Análise de dados com programação R
-- [] TCC da Análise de dados do Google: Conclua um estudo de caso
-- [] Acelere sua busca de emprego com IA
+- [ ] Prepare dados para exploração
+- [ ] Processe dados de sujos para limpos
+- [ ] Analisar dados para responder as perguntas
+- [ ] Compartilhe dados por meio da arte de Visualização
+- [ ] Análise de dados com programação R
+- [ ] TCC da Análise de dados do Google: Conclua um estudo de caso
+- [ ] Acelere sua busca de emprego com IA
