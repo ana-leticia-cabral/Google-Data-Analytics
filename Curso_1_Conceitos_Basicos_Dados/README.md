@@ -3,7 +3,7 @@
 As atividades deste curso foram realizadas dentro da plataforma **Coursera** 🎓, como parte do programa *Google Data Analytics*.  
 Decidi trazê-las para este repositório para **demonstrar meus conhecimentos, minha evolução e minha dedicação ao aprendizado contínuo**.
 
-As atividades estão disponíveis em três formatos — **PDF**, **ODT** e **TXT** — oferecendo diferentes maneiras de acessar o conteúdo.  
+As atividades estão reunidas em um único arquivo, disponibilizado em três formatos — **PDF**, **ODT** e **TXT** — oferecendo diferentes maneiras de acessar o conteúdo.  
 Sinta-se à vontade para escolher o formato que preferir.
 
 > **Observação:** Uma das atividades inclui um gráfico criado no Google Sheets. Essa imagem **não aparece no arquivo `.txt`**, mas está visível nas versões **`.pdf`** e **`.odt`**.
