@@ -8,7 +8,7 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 - [x] Conceitos básicos: dados, dados em todos os lugares. Conclusão: Outubro de 2025.
 - [x] Faça perguntas para tomar decisões baseadas em dados. Conclusão: Novembro de 2025.
 - [x] Prepare dados para exploração. Conclusão: Janeiro de 2026
-- [ ] Processe dados de sujos para limpos
+- [ ] Processe dados de sujos para limpos. (Em andamento...)
 - [ ] Analisar dados para responder as perguntas
 - [ ] Compartilhe dados por meio da arte de Visualização
 - [ ] Análise de dados com programação R
