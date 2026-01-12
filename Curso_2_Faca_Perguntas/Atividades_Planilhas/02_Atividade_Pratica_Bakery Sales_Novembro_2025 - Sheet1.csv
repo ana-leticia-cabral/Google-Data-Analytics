@@ -1,0 +1,22 @@
+Date,Name,Price ,Quantity,Revenue,,,
+3/25,Cupcake,$2.00,30,$60.00,,,
+3/25,Cookie,$1.00,20,$20.00,,Total # of Cookies Sold,117
+3/25,Muffin,$3.00,12,$36.00,,Total # of Cupcakes Sold,291
+3/26,Cupcake,$2.00,40,$80.00,,Total # of Muffins Sold,54
+3/26,Pie,$5.00,15,$75.00,,Total # of Pies Sold,66
+3/27,Cupcake,$2.00,35,$70.00,,,
+3/27,Cookie,$1.00,25,$25.00,,,
+3/27,Muffin,$3.00,14,$42.00,, Cookie Revenue,117
+3/28,Cupcake,$2.00,32,$64.00,, Cupcake Revenue,582
+3/28,Pie,$5.00,16,$80.00,, Muffin Revenue,162
+3/29,Cupcake,$2.00,38,$76.00,, Pie Revenue,330
+3/29,Cookie,$1.00,22,$22.00,,,
+3/29,Muffin,$3.00,13,$39.00,,,
+3/30,Cupcake,$2.00,36,$72.00,,,
+3/30,Pie,$5.00,17,$85.00,,,
+3/31,Cupcake,$2.00,39,$78.00,,,
+3/31,Cookie,$1.00,24,$24.00,,,
+3/31,Muffin,$3.00,15,$45.00,,,
+3/31,Pie,$5.00,18,$90.00,,,
+3/31,Cupcake,$2.00,41,$82.00,,,
+3/31,Cookie,$1.00,26,$26.00,,,
