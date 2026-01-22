@@ -5,12 +5,12 @@ O objetivo é documentar o aprendizado, praticar conceitos fundamentais de anál
 
 
 ## 📚 Cursos da Certificação
-- [x] Conceitos básicos: dados, dados em todos os lugares. Conclusão: Outubro de 2025.
-- [x] Faça perguntas para tomar decisões baseadas em dados. Conclusão: Novembro de 2025.
-- [x] Prepare dados para exploração. Conclusão: Janeiro de 2026
-- [ ] Processe dados de sujos para limpos. (Em andamento...)
-- [ ] Analisar dados para responder as perguntas
-- [ ] Compartilhe dados por meio da arte de Visualização
-- [ ] Análise de dados com programação R
-- [ ] TCC da Análise de dados do Google: Conclua um estudo de caso
-- [ ] Acelere sua busca de emprego com IA
+- [x] 1 - Conceitos básicos: dados, dados em todos os lugares. Conclusão: Outubro de 2025.
+- [x] 2 - Faça perguntas para tomar decisões baseadas em dados. Conclusão: Novembro de 2025.
+- [x] 3 - Prepare dados para exploração. Conclusão: Janeiro de 2026
+- [ ] 4 - Processe dados de sujos para limpos. (Em andamento...)
+- [ ] 5 - Analisar dados para responder as perguntas
+- [ ] 6 - Compartilhe dados por meio da arte de Visualização
+- [ ] 7 - Introdução à análise de dados usando Python
+- [ ] 8 - TCC da Análise de dados do Google: Conclua um estudo de caso
+- [ ] 9 - Acelere sua busca de emprego com IA
